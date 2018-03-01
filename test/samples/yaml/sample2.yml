@@ -1,0 +1,6 @@
+---
+database:
+  host: localhost
+  base: my-database
+  username: 1234
+  password: 5364
